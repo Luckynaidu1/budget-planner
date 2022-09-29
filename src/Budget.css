@@ -1,0 +1,62 @@
+.outline{
+    border: 1px  black;
+    margin-top: 40px;
+    outline-style: solid;
+    height: 800px;
+    width: max-content;
+    position: absolute;
+    left: 420px;
+  
+}
+.card1{
+    height: 70px;
+    width: 250px;
+    background-color:gray;
+    border-radius:10px;
+    margin-top: 40px;
+
+}
+.text{
+    position: absolute;
+    top: 108px;
+    margin-top: 10px;
+}
+.card2{
+    height: 70px;
+    width: 250px;
+    background-color:#90EE90;
+    border-radius:10px;
+    margin-top: 40px;
+}
+.text1{
+    position: absolute;
+    justify-items: center;
+    margin-top: 16px;
+}
+.card3{
+    height: 70px;
+    width: 250px;
+    background-color:#Add8E6;
+    border-radius:10px;
+    margin-top: 40px;
+}
+.text2{
+margin-top: 16px;
+
+}
+.align{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+
+ 
+}
+.table{
+    outline-style: normal;
+    height: 40px;
+    width: 700px;
+    margin-left: 10px;
+    direction: flex;
+    justify-content: space-around;
+    
+}
